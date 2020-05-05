@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "control-clientes-3f943": {
+      "hosting": {
+        "control-clientes": [
+          "control-clientes-3f943"
+        ]
+      }
+    }
+  }
+}
